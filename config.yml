@@ -1,0 +1,15 @@
+title: XanFetch
+author: xanmoy
+avatar: "/resource/avatar.jpg"
+round-avatar: true
+navbar-links:
+  About Me: "aboutme"
+  Author's home: "https://www.xanmoy.me"
+social-network-links:
+  email: "contact@xanmoy.me"
+  instagram: xanmoy.dev
+  github: xanmoy
+  linkedin: in/xanmoy
+share-links-active:
+  facebook: true
+  linkedin: true
