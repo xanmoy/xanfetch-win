@@ -32,7 +32,7 @@
 .OUTPUTS
     System.String[]
 .NOTES
-    Run DotFetch without arguments to view core functionality.
+    Run XanFetch without arguments to view core functionality.
 #>
 [CmdletBinding()]
 param(
