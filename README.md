@@ -42,13 +42,14 @@ XanFetch can be used with various options:
 # Display system information with the XanFetch logo
 .\XanFetch.ps1
 
-# Display system information without the logo
-.\XanFetch.ps1 -noimage
 
 # Download a configuration template
 .\XanFetch.ps1 -genconf
 
+```
+
 ## Credits
+
 
 - **Author:** [xanmoy](https://github.com/xanmoy)
 - **Project URL:** [https://github.com/xanmoy/xanfetch](https://github.com/xanmoy/xanfetch)

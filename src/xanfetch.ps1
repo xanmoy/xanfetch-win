@@ -479,4 +479,3 @@ write-output ''
 
 # Compatible with both Windows PowerShell & PowerShell Core
 # Author: Xanmoy (@xanmoy)
-
