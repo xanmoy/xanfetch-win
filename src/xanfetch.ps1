@@ -1,5 +1,5 @@
 <#PSScriptInfo
-.VERSION 2.2.0
+.VERSION 1.0.2
 .GUID 1c26142a-da43-4125-9d70-97555cbb1752
 .DESCRIPTION XanFetch is a command-line system information utility for Windows written in PowerShell.
 .AUTHOR xanmoy
@@ -32,7 +32,7 @@
 .OUTPUTS
     System.String[]
 .NOTES
-    Run DotFetch without arguments to view core functionality.
+    Run XanFetch without arguments to view core functionality.
 #>
 [CmdletBinding()]
 param(
