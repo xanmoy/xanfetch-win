@@ -2,6 +2,8 @@
 
 XanFetch is a command-line system information utility for Windows written in PowerShell.
 
+![XanFetch](https://github.com/xanmoy/xanfetch/blob/main/assets/xanfetch.png)
+
 ## Overview
 
 XanFetch provides an easy way to gather system information on Windows systems directly from the command line. It displays various details about the system, including OS version, CPU, GPU, memory usage, disk usage, network status, and more.
@@ -45,3 +47,15 @@ XanFetch can be used with various options:
 
 # Download a configuration template
 .\XanFetch.ps1 -genconf
+
+## Credits
+
+- **Author:** [xanmoy](https://github.com/xanmoy)
+- **Project URL:** [https://github.com/xanmoy/xanfetch](https://github.com/xanmoy/xanfetch)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+This README.md now includes the License and Credit sections. Feel free to use it for your project!
